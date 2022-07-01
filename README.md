@@ -1,2 +1,1 @@
-# Voelidator
-Hunter Engineering Annotation Tool
+React Image Annotation Tool
